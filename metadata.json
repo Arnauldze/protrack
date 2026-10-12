@@ -1,0 +1,8 @@
+{
+  "name": "EDC Track",
+  "description": "Plateforme de pilotage et de suivi des projets d'infrastructure — EDC",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
